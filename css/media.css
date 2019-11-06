@@ -1,0 +1,60 @@
+@media only screen and (max-width:800px){
+    .logo{
+        color:white;
+        font-size: 10px;
+    }
+    .nav1{
+       display: none;
+    }
+    .parg1{
+        font-size: 30px;
+        padding-top: 50%;
+
+    }
+    .parg2{
+        font-size: 15px;
+    }
+ 
+    .but1{
+
+        font-size: 14px;
+        width: 200px;
+        
+    }
+    .flexp{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;  
+    }
+    .fa-bars{
+        color: white;
+        font-size: 40px;
+        visibility: visible;
+    }
+}
+@media only screen and (max-width:950px){
+    .logo{
+        color:white;
+        font-size: 15px;
+    }
+   
+    .parg1{
+        font-size: 40px;
+
+    }
+    .parg2{
+        font-size: 20px;
+    }
+ 
+    .but1{
+
+        font-size: 14px;
+        width: 200px;
+        
+    }
+    .flexp{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;  
+    }
+}
